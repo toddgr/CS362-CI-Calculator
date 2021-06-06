@@ -16,3 +16,4 @@ class TestCalculatorApp:
 
     def test_divide(self):
         assert 4 == calculator.divide(16, 4)
+        
